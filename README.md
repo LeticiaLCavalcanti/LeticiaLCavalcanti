@@ -1,4 +1,4 @@
-### Hi guys, welcome to my github page!
+### Hi guys, welcome!
 
 Passionate about technology since I was a child, I decided to study computer engineering to understand how things work from hardware to software and I fell in love with web development. In addition to valuing my career a lot, I contribute by encouraging more women and minorities to work with technology.
 
