@@ -9,6 +9,6 @@ for now you can find me at:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leticia-lima-cavalcanti/)](https://www.linkedin.com/in/leticia-lima-cavalcanti/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/l3llys)](https://twitter.com/l3llys)
 
-![my octocat](my-octocat.png)
+![my octocat](https://res.cloudinary.com/dvuobyyio/image/upload/v1595991798/my-octocat.png)
 
 See ya! :wink:
