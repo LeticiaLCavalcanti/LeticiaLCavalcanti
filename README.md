@@ -10,3 +10,7 @@ for now you can find me at:
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/l3llys)](https://twitter.com/l3llys)
 
 See ya! :wink:
+
+## 📚 Interview Prep
+
+![LeetCode Progress](https://github.com/LeticiaLCavalcanti/leetcode/blob/main/leetcode-badge.svg?raw=true)
