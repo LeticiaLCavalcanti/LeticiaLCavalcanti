@@ -11,6 +11,6 @@ for now you can find me at:
 
 See ya! :wink:
 
-## 📚 Interview Prep
+## 📚 Studying LeetCode exercises
 
-![LeetCode Progress](https://github.com/LeticiaLCavalcanti/leetcode/blob/main/leetcode-badge.svg?raw=true)
+![LeetCode Progress]![LeetCode Progress](https://raw.githubusercontent.com/LeticiaLCavalcanti/leetcode/main/leetcode-badge.svg)
