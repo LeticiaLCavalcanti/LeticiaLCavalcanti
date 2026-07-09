@@ -3,7 +3,7 @@
 *Software Engineer • Full-Stack Javascript • Advocate for women in tech*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticia-lima-cavalcanti/)
-[![Email](https://img.shields.io/badge/Email-333?style=flat-square&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
+[![Email](https://img.shields.io/badge/Email-333?style=flat-square&logo=gmail&logoColor=white)](mailto:leticialimacavalcanti@gmail.com)
 
 ---
 
