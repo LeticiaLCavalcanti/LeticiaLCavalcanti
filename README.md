@@ -19,17 +19,16 @@ I also enjoy sharing knowledge and supporting more women in tech.
 
 ### Tech Stack
 
+![JavaScript](https://img.shields.io/badge/JavaScript-333?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-333?style=flat-square&logo=typescript&logoColor=3178C6)
 ![React](https://img.shields.io/badge/React-333?style=flat-square&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-333?style=flat-square&logo=angular&logoColor=DD0031)
 ![Vue.js](https://img.shields.io/badge/Vue.js-333?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
-![TypeScript](https://img.shields.io/badge/TypeScript-333?style=flat-square&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-333?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![Next.js](https://img.shields.io/badge/Next.js-333?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-333?style=flat-square&logo=node.js&logoColor=339933)
 ![Cypress](https://img.shields.io/badge/Cypress-333?style=flat-square&logo=cypress&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-333?style=flat-square&logo=vitest&logoColor=6E9F18)
 ![Jest](https://img.shields.io/badge/Jest-333?style=flat-square&logo=jest&logoColor=C21325)
-
 
 ---
 
